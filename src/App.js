@@ -35,7 +35,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>SimpleChat</h1>
+        <h1>💬 SimpleChat</h1>
         <SignOut />
       </header>
 
@@ -56,7 +56,10 @@ function SignIn() {
 
   return (
     <>
-      <button className="sign-in" onClick={signInWithGoogle}>Sign in with Google</button>
+      <button className="sign-in" onClick={signInWithGoogle}>
+        <img src="https://expresswriters.com/wp-content/uploads/2015/09/google-new-logo-450x450.jpg"/>
+        Sign in with Google
+      </button>
     </>
   )
 
