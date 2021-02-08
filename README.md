@@ -2,7 +2,7 @@
 
 [**Live Demo**](https://simple-chat-app-79f50.web.app/)
 
-![](https://im6.ezgif.com/tmp/ezgif-6-81a8ed2df3ec.gif)
+![](./public/img/gif1.gif)
 
 * Live chat
 * Realtime sync database streams
