@@ -4,10 +4,8 @@
 
 ![](./public/img/gif1.gif)
 
-* Live chat
-* Realtime sync database streams
-* Sign in and sign out user validation
-* Google user authentication
+*	Real-time chat features using live sync with database streams in Firestore.
+*	Google user authentication using Firebase-auth.
 
 ## Technologies
 * React
